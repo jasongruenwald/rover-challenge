@@ -1,2 +1,2 @@
 # rover-challenge
-This was a challenge exercise that was shared with me to create tests using xUnit, but I was having so much fun, I made the rover actually work in a console app. 
+This was a challenge exercise that was shared with me to create tests using xUnit which I hasn't done before, and I was having so much fun, I made a console app so I could get it to work. I used several different approaches within to the program to in case anyone wanted to look at it and evaluate it.  
