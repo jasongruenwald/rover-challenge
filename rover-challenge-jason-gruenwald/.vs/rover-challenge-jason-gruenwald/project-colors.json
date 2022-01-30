@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d4c5b0fc-fd7a-4c6b-a5f3-c8551ba2418b": {
+      "ProjectGuid": "d4c5b0fc-fd7a-4c6b-a5f3-c8551ba2418b",
+      "DisplayName": "rover-challenge-jason-gruenwald",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

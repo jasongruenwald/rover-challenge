@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "rover-challenge-jason-gruenwald", "rover-challenge-jason-gruenwald.csproj", "{D4C5B0FC-FD7A-4C6B-A5F3-C8551BA2418B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rover-tests-jason-gruenwald", "..\rover-tests-jason-gruenwald\rover-tests-jason-gruenwald.csproj", "{44F158D2-2403-434C-B67D-EC78E782FE69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4C5B0FC-FD7A-4C6B-A5F3-C8551BA2418B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4C5B0FC-FD7A-4C6B-A5F3-C8551BA2418B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4C5B0FC-FD7A-4C6B-A5F3-C8551BA2418B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4C5B0FC-FD7A-4C6B-A5F3-C8551BA2418B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44F158D2-2403-434C-B67D-EC78E782FE69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44F158D2-2403-434C-B67D-EC78E782FE69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44F158D2-2403-434C-B67D-EC78E782FE69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44F158D2-2403-434C-B67D-EC78E782FE69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DD15457-9203-4E6A-AD03-4E1BCC072C0E}
+	EndGlobalSection
+EndGlobal
