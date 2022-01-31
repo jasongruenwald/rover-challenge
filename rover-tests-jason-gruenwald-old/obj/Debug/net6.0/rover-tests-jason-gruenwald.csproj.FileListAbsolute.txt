@@ -1,5 +1,0 @@
-C:\WorkSpaces\rover-challenge-jason-gruenwald\rover-tests-jason-gruenwald\obj\Debug\net6.0\rover-tests-jason-gruenwald.csproj.AssemblyReference.cache
-C:\WorkSpaces\rover-challenge-jason-gruenwald\rover-tests-jason-gruenwald\obj\Debug\net6.0\rover-tests-jason-gruenwald.GeneratedMSBuildEditorConfig.editorconfig
-C:\WorkSpaces\rover-challenge-jason-gruenwald\rover-tests-jason-gruenwald\obj\Debug\net6.0\rover-tests-jason-gruenwald.AssemblyInfoInputs.cache
-C:\WorkSpaces\rover-challenge-jason-gruenwald\rover-tests-jason-gruenwald\obj\Debug\net6.0\rover-tests-jason-gruenwald.AssemblyInfo.cs
-C:\WorkSpaces\rover-challenge-jason-gruenwald\rover-tests-jason-gruenwald\obj\Debug\net6.0\rover-tests-jason-gruenwald.csproj.CoreCompileInputs.cache
