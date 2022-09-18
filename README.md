@@ -1,2 +1,2 @@
 # rover-challenge
-This was a challenge exercise that was shared with me to create tests using xUnit which I hasn't done before, and I was having so much fun, I made a console app so I could get it to work. I did time box the effort, but used several different approaches within to the program in case anyone wanted to look at it and evaluate it.
+This was a challenge exercise with xUnit, which I haven't used before, and C#. I was having so much fun I went beyond the unit tests and I made a console app so I could see it work. I did time box the effort, but used several different approaches within to the program to show some flexibility.
